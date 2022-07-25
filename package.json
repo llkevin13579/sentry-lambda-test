@@ -10,9 +10,12 @@
   "license": "ISC",
   "devDependencies": {
     "serverless": "^3.21.0",
-    "serverless-offline": "^9.0.0"
+    "serverless-offline": "^9.0.0",
+    "serverless-sentry": "^2.5.3"
   },
   "dependencies": {
-    "@sentry/serverless": "^7.7.0"
+    "@sentry/node": "^7.7.0",
+    "@sentry/serverless": "^7.7.0",
+    "serverless-sentry-lib": "^2.5.2"
   }
 }
