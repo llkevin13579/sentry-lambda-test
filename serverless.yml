@@ -19,7 +19,7 @@ plugins:
 
 custom:
   sentry:
-    dsn: https://639b4db1818e40b788b37996ed0c9320@o446118.ingest.sentry.io/6593773
+    dsn: https://590d20d9dcf0460c9efc3b21fa5a241d@o219778.ingest.sentry.io/6694735
     organization: deepbaysz-bd
     project: new-lambda-sentry
     authToken: cb6a0f8f67674ca1a01bfdee4f4c35ce
